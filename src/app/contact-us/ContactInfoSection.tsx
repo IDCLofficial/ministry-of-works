@@ -6,10 +6,8 @@ const contactInfo = {
   email: "Imostateminofworks@gmail.com",
   phone: "0814 981 5425",
   socials: [
-    { icon: <FaFacebookF />, href: "#" },
-    { icon: <FaTwitter />, href: "#" },
-    { icon: <FaInstagram />, href: "#" },
-    { icon: <FaLinkedinIn />, href: "#" },
+    { icon: <FaFacebookF />, href: "https://www.facebook.com/ImoMinOfWorks/" },
+    { icon: <FaInstagram />, href: "https://www.instagram.com/imominofworks/" },
   ],
 };
 

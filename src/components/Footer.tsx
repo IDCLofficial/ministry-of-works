@@ -27,10 +27,11 @@ const info = {
   ],
   contact: [
     { label: "Block 7, New Owerri Secretariat 460281", href: "/" },
-    { label: "", href: "#" },
+    { label: "", href: "" },
     { label: "", href: "" },
   ],
 };
+
 
 export default function Footer() {
   const [email, setEmail] = useState("");
