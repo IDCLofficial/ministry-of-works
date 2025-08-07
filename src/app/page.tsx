@@ -19,7 +19,6 @@ export default function Home() {
       backgroundImages={["/images/works3.png","/images/works4.png", "/images/works2.png", "/images/works1.png"]}
   overlayText="Imo State Ministry of Works and Infrastructural Development"
   heading="Building Infrastructure. "
-  subheading="Driving Development."
   description="Advancing Imo State through strategic infrastructure, sustainable roads, and efficient public works — for economic growth and citizen wellbeing."
 />
 
@@ -42,12 +41,16 @@ Through professional excellence, technological innovation, and transparency, we 
   imageSrc="/images/commissioner2.png"
   imageAlt="Hon. Barr. Ralph Nwosu, Commissioner for Works, Imo State"
   title="About The Commissioner"
-  bio="Hon. Barr. Ralph Nwosu is the Commissioner for Works and Infrastructural Development in Imo State and a seasoned legal practitioner with decades of experience in public administration and infrastructure development. A native of Ehime Mbano Local Government Area, he has served in various strategic roles in both public and private sectors, earning a reputation for integrity, diligence, and technical foresight."
+  bio="Ralph Nwosu holds a Masters Degree in law and was called to the Nigerian Bar in 1988. He started his law practice in the law firm of AINA, NWOSU and Co as a Partner.He  later became a principal partner in the law firm of Ralph Nwosu and Co. He broke his legal Practice in 2007 when he was appointed a commissioner in Imo State. Until the end of the administration in 2011, he operated in Ministries of Public Utilities and Rural Development and Ministry of Works, Housing and Transport  twice respectively.
 
-  details="As Commissioner, Hon. Nwosu is driving the transformation of Imo’s infrastructure landscape through the execution of high-impact road projects, urban renewal programs, and sustainable civil engineering initiatives. Under his leadership, the Ministry has championed quality control, timely project delivery, and citizen-centered planning.
+He worked as a Senior legislative Aide and Head of operations in the office of Distinguished Senator Hope Uzodimma from 2011 to 2019 at the National Assembly. Prior to that assignment, he was a consultant to the Senate Committee on Stated Oil fields in 2005 and assisted in the passing into law of local content in the oil industry in Nigeria.
+"
+  details="Ralph Nwosu served as Commissioner for Works in the  first administration of Governor Hope Uzodimma from 2020 to 2024 and was  reappointed as Commissioner for Works and Infrastructural Development in the present administration. The achievements of the administration in the area of road infrastructure has his unmistakable presence and panache.
 
-He collaborates with contractors, engineers, local communities, and development partners to ensure that Imo’s infrastructure meets modern standards while fostering economic growth. His leadership continues to inspire a new era of transparency and performance-driven governance in public works."
-/>
+For the records,  Several kilometres of roads have been completed and commissioned under his supervision as Commissioner for Works and Infrastructural Development. It is instructive to note that  Ralph Nwosu has served as Commissioner for Works in Imo State, four(4) consecutive times.This can only be attributed to  his undiluted commitment to duty, cognitive experience, administrative know-how and passion for service delivery in that very sensitive department. 
+
+He is a silent philanthropist of immense dimension and holds the traditional title of EZINWA MGBIDI in Oru West LGA of Imo state.  He is married with children and a Christian of Catholic fold."
+  />
 
 <div className="bg-white">
   {/* Skill Up Section */}
