@@ -28,7 +28,7 @@ const info = {
   contact: [
     { label: "Block 7, New Owerri Secretariat 460281", href: "/" },
     { label: "+2348030925349", href: "tel:+2348030925349" },
-    { label: "", href: "" },
+    { label: "Imostateminofworks@gmail.com", href: "mailto:Imostateminofworks@gmail.com" },
   ],
 };
 
