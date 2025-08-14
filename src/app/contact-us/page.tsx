@@ -26,8 +26,8 @@ export default function ContactUsPage() {
         </div>
       </section>
       <CTASection
-        heading="Join Us in Empowering Women and Promoting Social Justice"
-        subtext="Be part of our mission to create an inclusive, equitable, and supportive Imo State for all women, children, and vulnerable groups."
+        heading="Join Us in transforming Imo State"
+        subtext="Be part of our mission."
         buttonLabel="Contact Us"
         buttonHref="/contact-us"
       />
