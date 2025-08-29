@@ -4,7 +4,7 @@ module.exports = {
   }],
   deploy : {
     production : {
-      key: 'mworks.pem',
+      key: 'abeg.pem',
       user : 'ubuntu',
       host : 'works',
       ref  : 'origin/main',
